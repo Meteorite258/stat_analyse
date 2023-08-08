@@ -1,0 +1,13 @@
+stat_xilinx ./SubModules/S.v
+stat_xilinx ./SubModules/S4.v
+stat_xilinx ./SubModules/T.v
+stat_xilinx ./SubModules/TSC.v
+stat_xilinx ./SubModules/Trojan_Trigger.v
+stat_xilinx ./SubModules/aes_128.v
+stat_xilinx ./SubModules/expand_key_128.v
+stat_xilinx ./SubModules/final_round.v
+stat_xilinx ./SubModules/lfsr_counter.v
+stat_xilinx ./SubModules/one_round.v
+stat_xilinx ./SubModules/table_lookup.v
+stat_xilinx ./SubModules/top.v
+stat_xilinx ./SubModules/xS.v
